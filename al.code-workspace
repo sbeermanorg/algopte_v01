@@ -5,6 +5,9 @@
     },
     {
       "path": "HelloWorld"
+    },
+    {
+      "path": "BingMaps.PTE"
     }
   ],
   "settings": {}
